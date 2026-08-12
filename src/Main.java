@@ -57,7 +57,7 @@ void main() {
         System.out.printf("%-18s%,-12d", months[month], monthlyTotals[month]);
 
         if (monthlyTotals[month] >= THRESHOLD){
-            System.out.print("*********");
+            System.out.print("***");
         }
 
         System.out.println();
