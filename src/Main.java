@@ -46,7 +46,7 @@ void main() {
 
     System.out.println("--------------------------------------------");
     System.out.println("MONTHLY TOTALS");
-    System.out.println("---------------------------------------");
+    System.out.println("-----------------------------------------");
 
     //any month with a total at
     final int THRESHOLD = 15;
